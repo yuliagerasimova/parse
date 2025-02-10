@@ -4,3 +4,4 @@ ipywidgets
 XlsxWriter
 requests
 bs4
+lxml
