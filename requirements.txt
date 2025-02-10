@@ -1,0 +1,5 @@
+pandas
+voila
+ipywidgets
+XlsxWriter
+requests
