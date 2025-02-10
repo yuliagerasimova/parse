@@ -3,3 +3,4 @@ voila
 ipywidgets
 XlsxWriter
 requests
+bs4
